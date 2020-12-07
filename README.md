@@ -35,4 +35,4 @@
   * **Course Project: Motion Compensated Pulse Rate Estimation**
 
 ### Assignments and Exercises 
-* [Course 1 Exercises]()
+* [Course 1 Exercises](https://github.com/mayank1101/AI-for-Healthcare/tree/main/Applying%20AI%20to%202D%20Medical%20Imaging%20Data)
