@@ -1,6 +1,6 @@
 # AI-for-Healthcare Nano Degree
 
-[![Course Subject](https://img.shields.io/badge/Completed-no-green.svg?style=flat&logo=appveyor)](https://github.com/mayank1101/https://github.com/mayank1101/AI-for-Healthcare/actions?query=workflow%3A%22C%2FC%2B%2B+WorkFlow%22)
+[![Course Subject](https://img.shields.io/badge/Completed-no-green.svg?style=flat&logo=appveyor)](https://github.com/mayank1101/AI-for-Healthcare/actions?query=workflow%3A%22C%2FC%2B%2B+WorkFlow%22)
 
 ### This Nano Degree consist of following Courses 
 
