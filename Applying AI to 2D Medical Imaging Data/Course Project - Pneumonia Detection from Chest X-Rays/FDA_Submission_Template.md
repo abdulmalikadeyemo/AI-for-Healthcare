@@ -110,6 +110,11 @@
         * ![Precision Recall Curve](https://github.com/mayank1101/AI-for-Healthcare/blob/main/Applying%20AI%20to%202D%20Medical%20Imaging%20Data/Course%20Project%20-%20Pneumonia%20Detection%20from%20Chest%20X-Rays/img/pr_curve.png?raw=true)
 
 **Final Threshold and Explanation:**
+* The final threshold is 0.07 because it gives the highest f1-score and can be seen clearly from below diagram.
+
+    * ![](https://github.com/mayank1101/AI-for-Healthcare/blob/main/Applying%20AI%20to%202D%20Medical%20Imaging%20Data/Course%20Project%20-%20Pneumonia%20Detection%20from%20Chest%20X-Rays/img/f1score_vs_threshold.png?raw=true)  
+
+* Here we need to make a trade off between recall and precision. High recall means the model will correctly classify all positive cases. High precision means the model will accuratly classify positive cases, which means when the model classifies an image as a positive case, the image will probably be a positive case. However, If we get a model with high recall, we will end up with many cases classified as positive. On the other hand, if we get a high precision model, we will end up missing positive cases.
 
 ### 4. Databases
  (For the below, include visualizations as they are useful and relevant)
