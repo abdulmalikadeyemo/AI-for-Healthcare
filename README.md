@@ -27,7 +27,7 @@
   * Lesson 4: Building, Evaluating, and Interpreting Models
   * **Course Project: Patient Selection for Diabetes Drug Testing**
 
-* **Course 3: Applying AI to Wearable Device Data**
+* **Course 4: Applying AI to Wearable Device Data**
   * Lesson 1: Intro to Digital Sampling & Signal Processing
   * Lesson 2: Introduction to Sensors
   * Lesson 3: Activity Classification
